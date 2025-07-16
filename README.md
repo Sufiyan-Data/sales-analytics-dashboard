@@ -4,7 +4,7 @@ An interactive sales analytics dashboard project to analyze retail trends and pe
 
 This project presents a comprehensive **Sales Analytics Dashboard** built using **Advanced Excel** to analyze sales performance and consumer behavior for a virtual retail store during the year 2022.
 
-<img src="https://github.com/your-username/your-repo-name/blob/main/dashboard.png" alt="Virtual Store Dashboard Screenshot" width="800"/>
+<img src="https://github.com/Sufiyan-Data/sales-analytics-dashboard/blob/main/dashboard.png" alt="Virtual Store Dashboard Screenshot" width="800"/>
 
 ---
 
@@ -80,7 +80,7 @@ The dashboard consolidates sales, orders, customer demographics, order status, a
 
 ## 📣 Let's Connect
 
-If you find this project insightful or want to collaborate, feel free to ⭐ star this repo and connect with me on [LinkedIn](https://www.linkedin.com).
+If you find this project insightful or want to collaborate, feel free to ⭐ star this repo and connect with me on [LinkedIn](https://www.linkedin.com/in/syed-sufiyan-32995b232).
 
 ---
 
