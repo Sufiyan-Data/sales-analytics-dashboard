@@ -61,4 +61,29 @@ The dashboard consolidates sales, orders, customer demographics, order status, a
 ---
 
 ## 📁 Project Structure
+📦 sales-analytics-dashboard
+├── dashboard.png # Screenshot of the dashboard
+├── Virtual_Store_Report.xlsx # Excel file with raw data & dashboard
+├── README.md # Project description
+
+
+---
+
+## 📌 Insights & Applications
+
+- Helps in **identifying target customer segments**.
+- Supports **channel performance analysis**.
+- Aids **marketing strategy planning** based on location, category, and demographics.
+- Useful for **retail or e-commerce business stakeholders** to monitor sales trends.
+
+---
+
+## 📣 Let's Connect
+
+If you find this project insightful or want to collaborate, feel free to ⭐ star this repo and connect with me on [LinkedIn](https://www.linkedin.com).
+
+---
+
+> _Made with 📊 Excel and curiosity to explore retail data_
+
 
